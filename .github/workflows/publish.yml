@@ -106,7 +106,7 @@ jobs:
 
     environment:
       name: pypi
-      url: https://pypi.org/p/protoml-dashboard
+      url: https://pypi.org/p/protoml
 
     # Required for OIDC Trusted Publisher authentication
     permissions:
