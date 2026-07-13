@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "protoml-dashboard"
+name = "protoml"
 version = "1.0.0"
 description = "Zero-code ML prototyping dashboard: tabular, vision, NLP, Bayesian optimisation, XAI, and Gemini AI assistant."
 readme = "README.md"
