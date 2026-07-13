@@ -26,7 +26,7 @@ ProtoML is a Streamlit application that lets researchers and domain experts run 
 
 ```bash
 # Recommended — everything enabled
-pip install "protoml-dashboard[all]"
+pip install "protoml[all]"
 ```
 
 Install only what you need:
