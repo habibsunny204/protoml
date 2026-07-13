@@ -43,8 +43,8 @@ Install only what you need:
 
 ```bash
 # Mix and match
-pip install "protoml-dashboard[tabular-full,xai]"
-pip install "protoml-dashboard[vision,nlp]"
+pip install "protoml[tabular-full,xai]"
+pip install "protoml[vision,nlp]"
 ```
 
 > **GPU/CUDA note:** For a CUDA-enabled PyTorch build, install the matching torch wheels from [pytorch.org](https://pytorch.org) *before* installing `protoml-dashboard[vision]`.
