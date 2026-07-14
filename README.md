@@ -193,15 +193,14 @@ The dashboard opens automatically in your browser at `http://localhost:8501`.
 
 ### Tab 6 — AI Assistant
 
-Enter a **Google Gemini API key** in the sidebar to activate a context-aware ML assistant.
+The rest of the app works fully without this — no API key required. If you'd like an AI assistant to help interpret your results, enter a Google Gemini API key in the sidebar to enable it.
+Once activated, the assistant is automatically briefed on:
 
-The assistant is automatically briefed on:
 - The current leaderboard (model names, accuracy scores)
 - The best hyperparameters found by Bayesian optimisation
 - The active tab and task type
 
-Useful for: interpreting results, suggesting next steps, explaining model behaviour, and generating code snippets.
-
+Useful for interpreting results, suggesting next steps, explaining model behaviour, and generating code snippets.
 ---
 
 ## Supported Models
